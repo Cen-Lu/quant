@@ -1,0 +1,8 @@
+symbols:
+  default: ["AAPL", "MSFT"]
+trading:
+  max_retries: 3
+  heartbeat_interval: 60  # seconds
+logging:
+  level: "INFO"
+  file: "logs/trading.log"

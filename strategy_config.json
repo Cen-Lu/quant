@@ -1,0 +1,17 @@
+{
+    "adx_period": 14,
+    "adx_threshold": 20,
+    "bollinger_ma_period": 20,
+    "bollinger_std_dev": 2,
+    "rsi_period": 14,
+    "rsi_oversold": 30,
+    "rsi_overbought": 70,
+    "atr_period": 14,
+    "stop_loss_atr_multiplier": 1.5,
+    "profit_target_pct": 0.015,
+    "risk_per_trade_pct": 0.01,
+    "max_trades_per_day": 5,
+    "daily_loss_limit_pct": 0.02,
+    "trade_start_time": "09:35",
+    "trade_end_time": "15:55"
+}

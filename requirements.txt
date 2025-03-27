@@ -1,0 +1,8 @@
+# Core dependencies
+ib_insync>=0.9.86
+pandas>=1.5.3
+numpy>=1.23.5
+talib>=0.4.24
+
+# UI dependencies
+tk-table>=1.3
